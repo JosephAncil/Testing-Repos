@@ -1,4 +1,4 @@
 # Testing-Repos
-Learning by practicing how to create REPOS
+Learning once again by practicing how to create REPOS by creating a new branch
 
-I am still learning REPOS, there is a saying practice makes it perfect!
+Created a new branch reademe-edits1 for the purposes of testing.
